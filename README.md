@@ -2,7 +2,7 @@ This repository hosts `Spend Testnet`, an implementation of the Cosmos Hub.
 
 **Note**: Requires [Go 1.12+](https://golang.org/dl/)
 
-## Cosmos Hub Mainnet
+## Hub Mainnet
 
 To run a full-node for the mainnet of the Cosmos Hub
 
